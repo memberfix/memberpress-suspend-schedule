@@ -7,8 +7,8 @@
  * Version:           1.3
  * Requires at least: 5.2
  * Requires PHP:      7.2
- * Author:            Sorin Marta @ MemberFix
- * Author URI:        https://sorinmarta.com
+ * Author:            MemberFix
+ * Author URI:        https://memberfix.rocks
  */
 
 define('MFSS_SLUG', 'mf-memberpress-suspend-schedule');
